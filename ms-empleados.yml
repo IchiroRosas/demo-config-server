@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: ms-empleados
   datasource:
     url: jdbc:mysql://localhost:3306/db_empleados?createDatabaseIfNotExist=true
     driver-class-name: com.mysql.cj.jdbc.Driver
